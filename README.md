@@ -5,5 +5,5 @@ it's a calculator with python
 git clone https://github.com/Taha-Azadi/calculator
 cd calculator
 pip install -r requirments.txt
-python calc.py
+python Calculator.py
 ```
