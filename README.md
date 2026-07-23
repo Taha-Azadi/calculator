@@ -4,6 +4,6 @@ it's a calculator with python
 ```bash
 git clone https://github.com/Taha-Azadi/calculator
 cd calculator
-pip install -r requirments.txt
+pip install -r requirements.txt
 python Calculator.py
 ```
